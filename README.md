@@ -1,4 +1,4 @@
-# minimalist-bio-page
+<h2 align="center">Minimalist bio page</h2>
 
 Página de perfil pessoal minimalista em HTML e CSS, desenvolvida como parte do curso de Engenharia de Software
 
